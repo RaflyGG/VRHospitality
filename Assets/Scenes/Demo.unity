@@ -8475,6 +8475,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5513016382538558186, guid: 6c18aa9b053414f8c9d8f507cdc60faf, type: 3}
+      propertyPath: m_Buttons.Array.data[2]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5513016382538558187, guid: 6c18aa9b053414f8c9d8f507cdc60faf, type: 3}
       propertyPath: m_Name
       value: GenericModal
@@ -8575,7 +8579,8 @@ PrefabInstance:
       propertyPath: m_Text
       value: 'Mr Richard '
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5513016382538558186, guid: 6c18aa9b053414f8c9d8f507cdc60faf, type: 3}
     m_RemovedGameObjects:
     - {fileID: 4829560058392062907, guid: 6c18aa9b053414f8c9d8f507cdc60faf, type: 3}
     m_AddedGameObjects: []
